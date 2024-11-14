@@ -66,15 +66,8 @@ The application handles several types of errors:
 - **SearchValidationError**: Triggered if input validation fails during search.
 - **Text2CypherRetrievalError**: Raised if the LLM fails to generate a valid Cypher query.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [Azure OpenAI](https://azure.microsoft.com/en-us/services/cognitive-services/openai-service/) for natural language processing capabilities.
 - Thanks to [Streamlit](https://streamlit.io/) for providing an easy-to-use UI framework.
 - Special thanks to [Neo4j](https://neo4j.com/) for enabling graph database support and Cypher query language.
-```
-
-This README provides setup instructions, a usage guide, error-handling details, and acknowledgments specific to the structure of your app. Let me know if you need further customization!
