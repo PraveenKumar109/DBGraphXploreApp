@@ -1,5 +1,3 @@
-from warnings import catch_warnings
-
 import streamlit as st
 import os
 import dotenv
