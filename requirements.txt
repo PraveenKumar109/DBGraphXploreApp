@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+neo4j
+openai
+neo4j-graphrag
